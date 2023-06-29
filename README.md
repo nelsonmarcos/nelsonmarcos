@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nelsonmarcos, from Rio, Brazil. I've been working with IT for the last 19 years.
+- 👋 Hi, I’m @nelsonmarcos, from Rio, Brazil. I've been working with IT for the last 20 years.
 - 👀 I’m interested in leadership, FinOps and Infrastructure as Code.
 - 🌱 I’m currently learning cloud FinOps.
 - 💞️ I’m looking to collaborate on FinOps best practices, coaching and leadership.
